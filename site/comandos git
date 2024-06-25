@@ -1,0 +1,10 @@
+COMANDO GITHUB 
+    git clone https://github.com/MuitoFumo55/coursera-test.git
+    git status (saber o que está por dar commit e se tem algum para dar)
+    git checkout (nome da pasta para entrar na pasta e fazermos o "ls" para ver se tem algo dentro e dar git status)
+# Comentário - depois de adicionar algum ficheiro ou alterar ficheiro fazer git status para dar o commit
+    git add . (o ponto ou colocar o nome do ficheiro adicionado ou alterao)
+    git commit -m "Comentário do que foi feito"
+    git push (Para mandarmos para o git)
+    
+
