@@ -6,5 +6,10 @@ COMANDO GITHUB
     git add . (o ponto ou colocar o nome do ficheiro adicionado ou alterao)
     git commit -m "Comentário do que foi feito"
     git push (Para mandarmos para o git)
-    
+
+    browser-sync start (dá start ao browser-sync para dar reload na página sem clicarmos no reload e atualiza o http local sem darmos upload para o git)
+                        --server (acrescentar depois de start, dá start no server mode, e começa o http server local)
+                        --directory (a seguir ao --server, dá uma lista dos diretórios que tem na pasta onde estamos)
+                        -- files (a seguir ao --directory, para dizer quais os ficheiros que vão dar sync, e se algum dos ficheiros for alterado o browsersync atualiza a página e mostra o resultado.)
+                        "*" (no fim da linha para dar reload a todas as pastas e ficheiros)
 
