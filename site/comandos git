@@ -13,3 +13,4 @@ COMANDO GITHUB
                         -- files (a seguir ao --directory, para dizer quais os ficheiros que vão dar sync, e se algum dos ficheiros for alterado o browsersync atualiza a página e mostra o resultado.)
                         "*" (no fim da linha para dar reload a todas as pastas e ficheiros)
 
+https://muitofumo55.github.io/coursera-test/site/
